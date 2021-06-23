@@ -15,11 +15,11 @@ body {
 .wrapper {
   width: 65%;
   height: 43rem;
-  background-color: white;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   padding: 2rem;
+  box-shadow: white -15px -5px 15px, gainsboro 40px 10px 20px;
 }
 
 .up-box {
